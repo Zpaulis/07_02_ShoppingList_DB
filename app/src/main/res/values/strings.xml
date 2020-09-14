@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">07_02_ShoppingList_DB</string>
+    <string name="quantity_text" translatable="false">%d %s</string>
+    <string name="shoping_item_name_sample">kartupelis</string>
+    <string name="shoping_item_count_sample">50</string>
+    <string name="shoping_item_unit_sample">kg</string>
+    <string name="input_unit_hint">Input UNIT</string>
+    <string name="input_quantity_hint">Input QUANTITY</string>
+    <string name="fill_input_button">input</string>
+</resources>
